@@ -1,5 +1,2 @@
-burger 
+burger
 pizza
-water
-dahi
-
