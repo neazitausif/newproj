@@ -1,5 +1,4 @@
 if:
    hi 
-   hello
-else:
-   fuck
+ else:
+   mc
